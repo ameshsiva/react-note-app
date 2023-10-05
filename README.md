@@ -5,6 +5,9 @@ A basic note taking front end developed using React. The user can add new notes,
 ## Gained/Used skills 
 
 HTML, CSS, and Javascript
+
 React Components
+
 React States
+
 React Props
